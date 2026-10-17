@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node / Vite
+node_modules/
+apps/dashboard/node_modules/
+apps/dashboard/dist/
+apps/dashboard/public/data/
+workers/recommender/node_modules/
+workers/recommender/.wrangler/
+
+# Secrets & OS
+.env
+.env.local
+kaggle.json
+.DS_Store
+Thumbs.db
+
