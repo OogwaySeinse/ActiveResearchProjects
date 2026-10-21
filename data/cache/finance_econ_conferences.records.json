@@ -15,7 +15,7 @@
     "notification_date": "2026-05-19",
     "event_start_date": "2027-01-03",
     "event_end_date": "2027-01-06",
-    "days_remaining": 75,
+    "days_remaining": 74,
     "location": "Philadelphia / San Francisco / Boston, USA",
     "format": "In-Person",
     "funding_raw": "Brattle Group & Dimensional Fund Advisors Prizes ($25,000) + PhD Travel Grants",
@@ -38,7 +38,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Finance",
       "Economy"
@@ -78,7 +78,7 @@
     "notification_date": "2027-01-19",
     "event_start_date": "2027-06-21",
     "event_end_date": "2027-06-25",
-    "days_remaining": 26,
+    "days_remaining": 25,
     "location": "Snowbird / Huntington Beach / Seattle",
     "format": "In-Person",
     "funding_raw": "$10,000 Cubist Systematic & Two Sigma Best Paper Awards",
@@ -101,7 +101,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Finance"
     ],
@@ -140,7 +140,7 @@
     "notification_date": "2027-04-07",
     "event_start_date": "2027-08-19",
     "event_end_date": "2027-08-23",
-    "days_remaining": 104,
+    "days_remaining": 103,
     "location": "Paris / Bratislava / Zurich / Amsterdam",
     "format": "In-Person",
     "funding_raw": "€10,000 EFA Best Paper & Doctoral Tutorial Stipends",
@@ -163,7 +163,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Finance",
       "Economy"
@@ -203,7 +203,7 @@
     "notification_date": "2027-02-13",
     "event_start_date": "2027-05-18",
     "event_end_date": "2027-05-22",
-    "days_remaining": 51,
+    "days_remaining": 50,
     "location": "New Haven / Atlanta / Austin, USA",
     "format": "In-Person",
     "funding_raw": "$5,000 SFS Best Paper Awards in Asset Pricing & Corporate Finance",
@@ -226,7 +226,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Finance",
       "Statistics",
@@ -267,7 +267,7 @@
     "notification_date": "2027-02-18",
     "event_start_date": "2027-07-06",
     "event_end_date": "2027-07-11",
-    "days_remaining": 56,
+    "days_remaining": 55,
     "location": "Rio de Janeiro / Bologna / New York",
     "format": "In-Person",
     "funding_raw": "Bruti-Liberati Prize + Early Career Travel Support",
@@ -291,7 +291,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Finance",
       "Mathematics"
@@ -331,7 +331,7 @@
     "notification_date": "2027-01-24",
     "event_start_date": "2027-06-08",
     "event_end_date": "2027-06-12",
-    "days_remaining": 31,
+    "days_remaining": 30,
     "location": "Miami / Philadelphia / Chicago, USA",
     "format": "In-Person",
     "funding_raw": "SIAM SIAG/FME Early Career & Student Paper Prizes ($3,000)",
@@ -355,7 +355,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Finance",
       "Mathematics"
@@ -395,7 +395,7 @@
     "notification_date": "2026-09-25",
     "event_start_date": "2026-11-14",
     "event_end_date": "2026-11-18",
-    "days_remaining": 25,
+    "days_remaining": 24,
     "location": "Singapore / New York / London",
     "format": "Hybrid",
     "funding_raw": "ACM DL + Best Paper & FinLLM Workshop Challenges ($15,000)",
@@ -419,7 +419,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Finance",
       "Artificial Intelligence"
@@ -459,7 +459,7 @@
     "notification_date": "2027-04-26",
     "event_start_date": "2027-05-28",
     "event_end_date": "2027-05-31",
-    "days_remaining": 123,
+    "days_remaining": 122,
     "location": "Paris / New York",
     "format": "In-Person",
     "funding_raw": "€5,000 Best Paper on Liquidity & Order Book Design",
@@ -482,7 +482,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Finance"
     ],
@@ -521,7 +521,7 @@
     "notification_date": "2026-06-19",
     "event_start_date": "2027-01-03",
     "event_end_date": "2027-01-06",
-    "days_remaining": 75,
+    "days_remaining": 74,
     "location": "Philadelphia / San Francisco / Atlanta, USA",
     "format": "In-Person",
     "funding_raw": "AEA Papers and Proceedings Publication",
@@ -546,7 +546,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Economy",
       "Statistics"
@@ -586,7 +586,7 @@
     "notification_date": "2027-04-21",
     "event_start_date": "2027-08-24",
     "event_end_date": "2027-08-29",
-    "days_remaining": 118,
+    "days_remaining": 117,
     "location": "Rotterdam / Seoul / Davis / Toronto",
     "format": "In-Person",
     "funding_raw": "Frisch Medal Track & Developing Economy Scholar Travel Grants ($2,500)",
@@ -610,7 +610,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Economy",
       "Mathematics",
@@ -651,7 +651,7 @@
     "notification_date": "2027-05-29",
     "event_start_date": "2027-07-07",
     "event_end_date": "2027-07-26",
-    "days_remaining": 156,
+    "days_remaining": 155,
     "location": "Cambridge, Massachusetts, USA",
     "format": "Hybrid",
     "funding_raw": "NBER Working Paper Distribution + Travel Reimbursement",
@@ -675,7 +675,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Economy",
       "Finance"
@@ -715,7 +715,7 @@
     "notification_date": "2027-04-11",
     "event_start_date": "2027-07-07",
     "event_end_date": "2027-07-12",
-    "days_remaining": 108,
+    "days_remaining": 107,
     "location": "Stanford / New Haven / London",
     "format": "In-Person",
     "funding_raw": "ACM DL + Best Paper & Student Travel Grants ($2,000)",
@@ -739,7 +739,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Economy"
     ],
@@ -778,7 +778,7 @@
     "notification_date": "2027-03-21",
     "event_start_date": "2027-06-25",
     "event_end_date": "2027-06-29",
-    "days_remaining": 87,
+    "days_remaining": 86,
     "location": "Copenhagen / Barcelona / Buenos Aires / Madison",
     "format": "In-Person",
     "funding_raw": "Review of Economic Dynamics Special Track",
@@ -802,7 +802,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Economy",
       "Finance"
@@ -842,7 +842,7 @@
     "notification_date": "2027-05-04",
     "event_start_date": "2027-07-12",
     "event_end_date": "2027-07-22",
-    "days_remaining": 131,
+    "days_remaining": 130,
     "location": "Gerzensee (Switzerland) / Paris / Frankfurt",
     "format": "In-Person",
     "funding_raw": "CEPR Discussion Paper Series + Central Bank Travel Support",
@@ -865,7 +865,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Economy",
       "Finance"
@@ -905,7 +905,7 @@
     "notification_date": "2027-04-24",
     "event_start_date": "2027-06-28",
     "event_end_date": "2027-07-01",
-    "days_remaining": 121,
+    "days_remaining": 120,
     "location": "Sintra, Portugal",
     "format": "Hybrid",
     "funding_raw": "€10,000 ECB Young Economists Prize + Full Sintra Invitation",
@@ -929,7 +929,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-20T06:20:58Z",
+    "scraped_at": "2026-10-21T06:22:01Z",
     "disciplines": [
       "Economy",
       "Finance"
