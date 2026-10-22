@@ -39,7 +39,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-21T06:22:02Z",
+    "scraped_at": "2026-10-22T06:23:23Z",
     "disciplines": [
       "Statistics",
       "Mathematics",
@@ -80,7 +80,7 @@
     "notification_date": null,
     "event_start_date": "2026-01-15",
     "event_end_date": "2027-03-31",
-    "days_remaining": 130,
+    "days_remaining": 129,
     "location": "École Normale Supérieure (ENS) Paris & Collège de France",
     "format": "Hybrid",
     "funding_raw": "ENS Academic Certificate + QRT / CFM / AMF Research Awards",
@@ -105,7 +105,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-21T06:22:02Z",
+    "scraped_at": "2026-10-22T06:23:23Z",
     "disciplines": [
       "Finance",
       "Mathematics",
@@ -169,7 +169,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-21T06:22:02Z",
+    "scraped_at": "2026-10-22T06:23:23Z",
     "disciplines": [
       "Finance",
       "Mathematics"
@@ -233,7 +233,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-21T06:22:02Z",
+    "scraped_at": "2026-10-22T06:23:23Z",
     "disciplines": [
       "Mathematics",
       "Statistics"
@@ -296,7 +296,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-21T06:22:02Z",
+    "scraped_at": "2026-10-22T06:23:23Z",
     "disciplines": [
       "Data Science",
       "Finance",
@@ -337,7 +337,7 @@
     "notification_date": null,
     "event_start_date": "2026-09-01",
     "event_end_date": "2027-07-30",
-    "days_remaining": 102,
+    "days_remaining": 101,
     "location": "Co-located with ACL / NAACL",
     "format": "Hybrid",
     "funding_raw": "Peer-Reviewed System Description Paper in ACL Anthology",
@@ -361,7 +361,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-21T06:22:02Z",
+    "scraped_at": "2026-10-22T06:23:23Z",
     "disciplines": [
       "Artificial Intelligence"
     ],
@@ -400,7 +400,7 @@
     "notification_date": null,
     "event_start_date": "2026-11-01",
     "event_end_date": "2027-09-12",
-    "days_remaining": 186,
+    "days_remaining": 185,
     "location": "Madrid / Grenoble / Bologna, Europe",
     "format": "In-Person",
     "funding_raw": "Springer LNCS Proceedings & CEUR-WS Working Notes Publication",
@@ -423,7 +423,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-21T06:22:02Z",
+    "scraped_at": "2026-10-22T06:23:23Z",
     "disciplines": [
       "Data Science",
       "Mathematics"
