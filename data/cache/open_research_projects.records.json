@@ -35,11 +35,11 @@
       "galois-representations"
     ],
     "description": "EPSRC-backed multi-year open mathematical research collaboration formalizing the proof of Fermat's Last Theorem in the Lean 4 theorem prover using modular forms and Galois representations.",
-    "participants_count": 1054,
+    "participants_count": 1056,
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Mathematics"
     ],
@@ -101,7 +101,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Mathematics"
     ],
@@ -163,7 +163,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Mathematics"
     ],
@@ -225,7 +225,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Mathematics",
       "Statistics"
@@ -288,7 +288,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Mathematics"
     ],
@@ -327,7 +327,7 @@
     "notification_date": null,
     "event_start_date": "2026-01-01",
     "event_end_date": "2027-07-15",
-    "days_remaining": 167,
+    "days_remaining": 166,
     "location": "Global / IMO Host Venue",
     "format": "Virtual / Global",
     "funding_raw": "$10,000,000 Total AIMO Prize Pool ($2.1M Progress Prizes)",
@@ -351,7 +351,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Mathematics",
       "Artificial Intelligence"
@@ -414,7 +414,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Mathematics"
     ],
@@ -453,7 +453,7 @@
     "notification_date": null,
     "event_start_date": "2026-01-01",
     "event_end_date": "2027-12-31",
-    "days_remaining": 152,
+    "days_remaining": 151,
     "location": "Ottawa / Oslo / Chicago / London / Global",
     "format": "Hybrid",
     "funding_raw": "Co-Authored Meta-Paper in Top Economics Journals + Travel Support",
@@ -478,7 +478,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Economy",
       "Finance",
@@ -543,7 +543,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Economy",
       "Finance"
@@ -606,7 +606,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Statistics",
       "Artificial Intelligence",
@@ -647,7 +647,7 @@
     "notification_date": null,
     "event_start_date": "2026-03-01",
     "event_end_date": "2026-12-15",
-    "days_remaining": 31,
+    "days_remaining": 30,
     "location": "Virtual / Global",
     "format": "Virtual / Global",
     "funding_raw": "$1,000,000+ ARC-AGI-2 Grand Prize & Paper Awards",
@@ -670,7 +670,7 @@
     "sources": [],
     "first_seen_at": null,
     "is_new": false,
-    "scraped_at": "2026-10-30T06:31:06Z",
+    "scraped_at": "2026-10-31T06:30:34Z",
     "disciplines": [
       "Artificial Intelligence"
     ],
