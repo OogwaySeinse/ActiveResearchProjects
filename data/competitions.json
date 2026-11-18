@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:16:54Z",
+  "generated_at": "2026-11-18T14:52:51Z",
   "total_count": 73,
   "active_count": 73,
   "sources": {
@@ -35,8 +35,8 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-11-17T15:16:54Z",
-    "run_date": "2026-11-17",
+    "generated_at": "2026-11-18T14:52:51Z",
+    "run_date": "2026-11-18",
     "total_active": 73,
     "raw_records": 78,
     "duplicates_merged": 5,
@@ -112,11 +112,11 @@
       "Lean 4 / Bonn & Eindhoven": 1,
       "DoubleML / Munich & MIT": 1,
       "Lean 4 / Polymath Collaboration": 1,
+      "IEEE Computer Society": 1,
       "Jane Street": 1,
       "Makridakis Open Forecasting Center": 1,
       "Lean 4 / UCLA & Cambridge": 1,
       "Lean 4 / Mathlib Collaboration": 1,
-      "IEEE Computer Society": 1,
       "NeurIPS Foundation": 1,
       "American Finance Association (AFA)": 1,
       "American Economic Association (AEA)": 1,
@@ -136,7 +136,7 @@
     },
     "fx_source": "open.er-api.com (live)",
     "history": {
-      "run_date": "2026-11-17",
+      "run_date": "2026-11-18",
       "new_projects": 0,
       "tracked_total": 76
     },
@@ -146,9 +146,9 @@
         "label": "AI & Data Science Conferences (CORE A* / ACM / IEEE / CCF)",
         "status": "ok",
         "count": 19,
-        "duration_ms": 268,
+        "duration_ms": 112,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       },
       {
         "name": "math_stats_conferences",
@@ -157,7 +157,7 @@
         "count": 16,
         "duration_ms": 0,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       },
       {
         "name": "finance_econ_conferences",
@@ -166,16 +166,16 @@
         "count": 15,
         "duration_ms": 0,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       },
       {
         "name": "open_research_projects",
         "label": "Live Open Research Projects (Lean 4 Formalization / Polymath / AIMO / QuantEcon / I4R)",
         "status": "ok",
         "count": 11,
-        "duration_ms": 335,
+        "duration_ms": 119,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       },
       {
         "name": "research_grants_fellowships",
@@ -184,22 +184,22 @@
         "count": 10,
         "duration_ms": 0,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       },
       {
         "name": "workshop_research_challenges",
         "label": "Academic Workshop Challenges & Quantitative Research Benchmarks (MLContests / CrunchDAO / ENS / Kaggle)",
         "status": "ok",
         "count": 7,
-        "duration_ms": 177,
+        "duration_ms": 149,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       }
     ]
   },
   "meta": {
-    "generated_at": "2026-11-17T15:16:54Z",
-    "run_date": "2026-11-17",
+    "generated_at": "2026-11-18T14:52:51Z",
+    "run_date": "2026-11-18",
     "total_active": 73,
     "raw_records": 78,
     "duplicates_merged": 5,
@@ -275,11 +275,11 @@
       "Lean 4 / Bonn & Eindhoven": 1,
       "DoubleML / Munich & MIT": 1,
       "Lean 4 / Polymath Collaboration": 1,
+      "IEEE Computer Society": 1,
       "Jane Street": 1,
       "Makridakis Open Forecasting Center": 1,
       "Lean 4 / UCLA & Cambridge": 1,
       "Lean 4 / Mathlib Collaboration": 1,
-      "IEEE Computer Society": 1,
       "NeurIPS Foundation": 1,
       "American Finance Association (AFA)": 1,
       "American Economic Association (AEA)": 1,
@@ -299,7 +299,7 @@
     },
     "fx_source": "open.er-api.com (live)",
     "history": {
-      "run_date": "2026-11-17",
+      "run_date": "2026-11-18",
       "new_projects": 0,
       "tracked_total": 76
     },
@@ -309,9 +309,9 @@
         "label": "AI & Data Science Conferences (CORE A* / ACM / IEEE / CCF)",
         "status": "ok",
         "count": 19,
-        "duration_ms": 268,
+        "duration_ms": 112,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       },
       {
         "name": "math_stats_conferences",
@@ -320,7 +320,7 @@
         "count": 16,
         "duration_ms": 0,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       },
       {
         "name": "finance_econ_conferences",
@@ -329,16 +329,16 @@
         "count": 15,
         "duration_ms": 0,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       },
       {
         "name": "open_research_projects",
         "label": "Live Open Research Projects (Lean 4 Formalization / Polymath / AIMO / QuantEcon / I4R)",
         "status": "ok",
         "count": 11,
-        "duration_ms": 335,
+        "duration_ms": 119,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       },
       {
         "name": "research_grants_fellowships",
@@ -347,16 +347,16 @@
         "count": 10,
         "duration_ms": 0,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       },
       {
         "name": "workshop_research_challenges",
         "label": "Academic Workshop Challenges & Quantitative Research Benchmarks (MLContests / CrunchDAO / ENS / Kaggle)",
         "status": "ok",
         "count": 7,
-        "duration_ms": 177,
+        "duration_ms": 149,
         "error": null,
-        "updated_at": "2026-11-17T15:16:54Z"
+        "updated_at": "2026-11-18T14:52:51Z"
       }
     ]
   },
@@ -377,7 +377,7 @@
       "notification_date": "2027-01-29",
       "event_start_date": "2027-06-28",
       "event_end_date": "2027-07-04",
-      "days_remaining": 8,
+      "days_remaining": 7,
       "location": "Nagoya / Venice / Montreal",
       "format": "In-Person",
       "funding_raw": "Savage Award ($3,000) + Junior Bayesian Travel Grants",
@@ -403,7 +403,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics"
       ],
@@ -442,7 +442,7 @@
       "notification_date": "2027-02-01",
       "event_start_date": "2027-03-15",
       "event_end_date": "2027-06-08",
-      "days_remaining": 11,
+      "days_remaining": 10,
       "location": "Los Angeles (UCLA), California, USA",
       "format": "In-Person",
       "funding_raw": "$15,000 Travel, Per-Diem & Residence Support (NSF)",
@@ -468,7 +468,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -507,7 +507,7 @@
       "notification_date": null,
       "event_start_date": "2026-03-01",
       "event_end_date": "2026-12-15",
-      "days_remaining": 13,
+      "days_remaining": 12,
       "location": "Virtual / Global",
       "format": "Virtual / Global",
       "funding_raw": "$1,000,000+ ARC-AGI-2 Grand Prize & Paper Awards",
@@ -532,7 +532,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -571,7 +571,7 @@
       "notification_date": "2027-02-13",
       "event_start_date": "2027-05-18",
       "event_end_date": "2027-05-22",
-      "days_remaining": 23,
+      "days_remaining": 22,
       "location": "New Haven / Atlanta / Austin, USA",
       "format": "In-Person",
       "funding_raw": "$5,000 SFS Best Paper Awards in Asset Pricing & Corporate Finance",
@@ -596,7 +596,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Statistics",
@@ -637,7 +637,7 @@
       "notification_date": "2027-02-18",
       "event_start_date": "2027-07-06",
       "event_end_date": "2027-07-11",
-      "days_remaining": 28,
+      "days_remaining": 27,
       "location": "Rio de Janeiro / Bologna / New York",
       "format": "In-Person",
       "funding_raw": "Bruti-Liberati Prize + Early Career Travel Support",
@@ -663,7 +663,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Mathematics"
@@ -703,7 +703,7 @@
       "notification_date": "2027-03-21",
       "event_start_date": "2027-07-14",
       "event_end_date": "2027-07-18",
-      "days_remaining": 59,
+      "days_remaining": 58,
       "location": "Bochum / London / North America",
       "format": "In-Person",
       "funding_raw": "IMS New Researcher Travel Awards ($2,500) + Hannan/Wald Lectures",
@@ -729,7 +729,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics",
         "Mathematics"
@@ -769,7 +769,7 @@
       "notification_date": "2027-03-21",
       "event_start_date": "2027-06-25",
       "event_end_date": "2027-06-29",
-      "days_remaining": 59,
+      "days_remaining": 58,
       "location": "Copenhagen / Barcelona / Buenos Aires / Madison",
       "format": "In-Person",
       "funding_raw": "Review of Economic Dynamics Special Track",
@@ -795,7 +795,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance"
@@ -835,7 +835,7 @@
       "notification_date": "2027-03-23",
       "event_start_date": "2027-06-14",
       "event_end_date": "2027-06-20",
-      "days_remaining": 61,
+      "days_remaining": 60,
       "location": "Berlin / Bengaluru / Washington D.C.",
       "format": "In-Person",
       "funding_raw": "PACMMOD Archival + Student Travel Grants ($2,000)",
@@ -861,7 +861,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science"
       ],
@@ -900,7 +900,7 @@
       "notification_date": "2027-03-28",
       "event_start_date": "2027-07-06",
       "event_end_date": "2027-07-11",
-      "days_remaining": 66,
+      "days_remaining": 65,
       "location": "Cleveland / Montreal / Pittsburgh",
       "format": "Hybrid",
       "funding_raw": "SIAM SIAG/FME Early Career & Student Paper Prizes ($3,000)",
@@ -935,7 +935,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Finance",
@@ -976,7 +976,7 @@
       "notification_date": "2027-04-03",
       "event_start_date": "2027-07-13",
       "event_end_date": "2027-07-19",
-      "days_remaining": 66,
+      "days_remaining": 65,
       "location": "Riocentro, Rio de Janeiro, Brazil",
       "format": "Hybrid",
       "funding_raw": "Peer-Reviewed Archival + Travel Grants",
@@ -1005,7 +1005,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence",
         "Statistics"
@@ -1045,7 +1045,7 @@
       "notification_date": "2027-03-29",
       "event_start_date": "2027-07-18",
       "event_end_date": "2027-07-23",
-      "days_remaining": 67,
+      "days_remaining": 66,
       "location": "Padua / Melbourne / Washington D.C.",
       "format": "Hybrid",
       "funding_raw": "ACM DL + Student Travel Awards ($2,000)",
@@ -1071,7 +1071,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science",
         "Artificial Intelligence"
@@ -1111,7 +1111,7 @@
       "notification_date": null,
       "event_start_date": "2026-09-01",
       "event_end_date": "2027-07-30",
-      "days_remaining": 75,
+      "days_remaining": 74,
       "location": "Co-located with ACL / NAACL",
       "format": "Hybrid",
       "funding_raw": "Peer-Reviewed System Description Paper in ACL Anthology",
@@ -1137,7 +1137,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -1176,7 +1176,7 @@
       "notification_date": "2027-04-07",
       "event_start_date": "2027-08-19",
       "event_end_date": "2027-08-23",
-      "days_remaining": 76,
+      "days_remaining": 75,
       "location": "Paris / Bratislava / Zurich / Amsterdam",
       "format": "In-Person",
       "funding_raw": "€10,000 EFA Best Paper & Doctoral Tutorial Stipends",
@@ -1201,7 +1201,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Economy"
@@ -1241,7 +1241,7 @@
       "notification_date": "2027-04-09",
       "event_start_date": "2027-08-01",
       "event_end_date": "2027-08-07",
-      "days_remaining": 78,
+      "days_remaining": 77,
       "location": "Boston / Nashville / Chicago, North America",
       "format": "In-Person",
       "funding_raw": "ASA/IMS Student Paper Awards & Travel Fellowships ($2,000)",
@@ -1268,7 +1268,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics",
         "Mathematics",
@@ -1309,7 +1309,7 @@
       "notification_date": "2027-04-11",
       "event_start_date": "2027-07-07",
       "event_end_date": "2027-07-12",
-      "days_remaining": 80,
+      "days_remaining": 79,
       "location": "Stanford / New Haven / London",
       "format": "In-Person",
       "funding_raw": "ACM DL + Best Paper & Student Travel Grants ($2,000)",
@@ -1335,7 +1335,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy"
       ],
@@ -1374,7 +1374,7 @@
       "notification_date": "2027-04-12",
       "event_start_date": "2027-06-28",
       "event_end_date": "2027-07-03",
-      "days_remaining": 81,
+      "days_remaining": 80,
       "location": "Lyon / Edmonton / Montreal",
       "format": "In-Person",
       "funding_raw": "PMLR + Best Paper & Best Student Paper Awards ($4,000)",
@@ -1400,7 +1400,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence",
         "Statistics"
@@ -1440,7 +1440,7 @@
       "notification_date": "2027-04-16",
       "event_start_date": "2027-08-09",
       "event_end_date": "2027-08-14",
-      "days_remaining": 85,
+      "days_remaining": 84,
       "location": "Toronto / Barcelona / Jeju",
       "format": "In-Person",
       "funding_raw": "ACM DL + KDD Cup ($50,000) & Student Travel Awards",
@@ -1466,7 +1466,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science",
         "Artificial Intelligence"
@@ -1506,7 +1506,7 @@
       "notification_date": "2027-04-18",
       "event_start_date": "2027-07-21",
       "event_end_date": "2027-07-25",
-      "days_remaining": 87,
+      "days_remaining": 86,
       "location": "Rio de Janeiro / Melbourne / Amsterdam",
       "format": "Hybrid",
       "funding_raw": "PMLR Archival + Student Travel Support",
@@ -1531,7 +1531,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence",
         "Finance",
@@ -1572,7 +1572,7 @@
       "notification_date": "2027-04-21",
       "event_start_date": "2027-08-24",
       "event_end_date": "2027-08-29",
-      "days_remaining": 90,
+      "days_remaining": 89,
       "location": "Rotterdam / Seoul / Davis / Toronto",
       "format": "In-Person",
       "funding_raw": "Frisch Medal Track & Developing Economy Scholar Travel Grants ($2,500)",
@@ -1598,7 +1598,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Mathematics",
@@ -1639,7 +1639,7 @@
       "notification_date": "2027-04-21",
       "event_start_date": "2027-07-27",
       "event_end_date": "2027-08-02",
-      "days_remaining": 90,
+      "days_remaining": 89,
       "location": "Vienna / Bangkok / Toronto",
       "format": "Hybrid",
       "funding_raw": "ACL Anthology + Walker Fund Student Fellowships ($2,000)",
@@ -1666,7 +1666,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -1705,7 +1705,7 @@
       "notification_date": "2027-04-24",
       "event_start_date": "2027-06-28",
       "event_end_date": "2027-07-01",
-      "days_remaining": 93,
+      "days_remaining": 92,
       "location": "Sintra, Portugal",
       "format": "Hybrid",
       "funding_raw": "€10,000 ECB Young Economists Prize + Full Sintra Invitation",
@@ -1731,7 +1731,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance"
@@ -1771,7 +1771,7 @@
       "notification_date": "2027-04-26",
       "event_start_date": "2027-05-28",
       "event_end_date": "2027-05-31",
-      "days_remaining": 95,
+      "days_remaining": 94,
       "location": "Paris / New York",
       "format": "In-Person",
       "funding_raw": "€10,000 per Selected Financial Mathematics & Economics Research Project",
@@ -1803,7 +1803,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Mathematics",
@@ -1844,7 +1844,7 @@
       "notification_date": "2027-05-04",
       "event_start_date": "2027-07-12",
       "event_end_date": "2027-07-22",
-      "days_remaining": 103,
+      "days_remaining": 102,
       "location": "Gerzensee (Switzerland) / Paris / Frankfurt",
       "format": "In-Person",
       "funding_raw": "CEPR Discussion Paper Series + Central Bank Travel Support",
@@ -1869,7 +1869,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance"
@@ -1909,7 +1909,7 @@
       "notification_date": null,
       "event_start_date": "2026-01-15",
       "event_end_date": "2027-03-31",
-      "days_remaining": 103,
+      "days_remaining": 102,
       "location": "École Normale Supérieure (ENS) Paris & Collège de France",
       "format": "Hybrid",
       "funding_raw": "ENS Academic Certificate + QRT / CFM / AMF Research Awards",
@@ -1936,7 +1936,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Finance",
         "Mathematics",
@@ -1977,7 +1977,7 @@
       "notification_date": "2027-05-05",
       "event_start_date": "2027-08-25",
       "event_end_date": "2027-08-30",
-      "days_remaining": 104,
+      "days_remaining": 103,
       "location": "London / Boston / Seoul",
       "format": "In-Person",
       "funding_raw": "PVLDB Journal Archival + Travel Fellowships",
@@ -2003,7 +2003,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science"
       ],
@@ -2042,7 +2042,7 @@
       "notification_date": "2027-05-29",
       "event_start_date": "2027-07-07",
       "event_end_date": "2027-07-26",
-      "days_remaining": 128,
+      "days_remaining": 127,
       "location": "Cambridge, Massachusetts, USA",
       "format": "Hybrid",
       "funding_raw": "NBER Working Paper Distribution + Travel Reimbursement",
@@ -2068,7 +2068,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance"
@@ -2108,7 +2108,7 @@
       "notification_date": null,
       "event_start_date": "2026-01-01",
       "event_end_date": "2027-12-31",
-      "days_remaining": 134,
+      "days_remaining": 133,
       "location": "Ottawa / Oslo / Chicago / London / Global",
       "format": "Hybrid",
       "funding_raw": "Co-Authored Meta-Paper in Top Economics Journals + Travel Support",
@@ -2135,7 +2135,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance",
@@ -2176,7 +2176,7 @@
       "notification_date": "2027-06-09",
       "event_start_date": "2027-09-07",
       "event_end_date": "2027-09-11",
-      "days_remaining": 139,
+      "days_remaining": 138,
       "location": "Edinburgh / Bournemouth / Belfast, UK",
       "format": "In-Person",
       "funding_raw": "JRSS Discussion Track + RSS Early Career Bursaries",
@@ -2202,7 +2202,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics"
       ],
@@ -2241,7 +2241,7 @@
       "notification_date": "2027-06-14",
       "event_start_date": "2027-11-02",
       "event_end_date": "2027-11-06",
-      "days_remaining": 144,
+      "days_remaining": 143,
       "location": "Sydney / Chicago / Santa Cruz",
       "format": "In-Person",
       "funding_raw": "IEEE Xplore + Machtey Award & Student Travel Grants ($2,000)",
@@ -2267,7 +2267,7 @@
       ],
       "first_seen_at": "2026-11-07",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Statistics"
@@ -2307,7 +2307,7 @@
       "notification_date": null,
       "event_start_date": "2026-01-01",
       "event_end_date": "2027-07-15",
-      "days_remaining": 149,
+      "days_remaining": 148,
       "location": "Global / IMO Host Venue",
       "format": "Virtual / Global",
       "funding_raw": "$10,000,000 Total AIMO Prize Pool ($2.1M Progress Prizes)",
@@ -2333,7 +2333,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Artificial Intelligence"
@@ -2373,7 +2373,7 @@
       "notification_date": "2027-06-25",
       "event_start_date": "2027-09-22",
       "event_end_date": "2027-09-27",
-      "days_remaining": 155,
+      "days_remaining": 154,
       "location": "Prague / Bari / Minneapolis",
       "format": "Hybrid",
       "funding_raw": "ACM DL + RecSys Challenge Prize ($20,000)",
@@ -2398,7 +2398,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science"
       ],
@@ -2437,7 +2437,7 @@
       "notification_date": null,
       "event_start_date": "2026-11-01",
       "event_end_date": "2027-09-12",
-      "days_remaining": 159,
+      "days_remaining": 158,
       "location": "Madrid / Grenoble / Bologna, Europe",
       "format": "In-Person",
       "funding_raw": "Springer LNCS Proceedings & CEUR-WS Working Notes Publication",
@@ -2462,7 +2462,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Data Science",
         "Mathematics"
@@ -2502,7 +2502,7 @@
       "notification_date": "2027-07-24",
       "event_start_date": "2027-10-26",
       "event_end_date": "2027-10-31",
-      "days_remaining": 184,
+      "days_remaining": 183,
       "location": "Seoul / Montreal / Analytical Hub",
       "format": "In-Person",
       "funding_raw": "ACM DL + AnalytiCup Data Science Prizes ($10,000)",
@@ -2527,7 +2527,7 @@
       ],
       "first_seen_at": "2026-11-01",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science"
       ],
@@ -2566,7 +2566,7 @@
       "notification_date": "2027-08-19",
       "event_start_date": "2027-11-10",
       "event_end_date": "2027-11-15",
-      "days_remaining": 210,
+      "days_remaining": 209,
       "location": "Suzhou / Miami / Singapore",
       "format": "Hybrid",
       "funding_raw": "ACL Anthology + Best Paper & D&I Awards ($2,000)",
@@ -2593,7 +2593,7 @@
       ],
       "first_seen_at": "2026-11-16",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -2658,7 +2658,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -2723,7 +2723,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Mathematics",
         "Finance",
@@ -2790,7 +2790,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Artificial Intelligence",
         "Mathematics"
@@ -2857,7 +2857,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Mathematics",
         "Statistics"
@@ -2923,7 +2923,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Statistics",
         "Mathematics",
@@ -2988,7 +2988,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -3053,7 +3053,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Statistics",
         "Mathematics",
@@ -3120,7 +3120,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Economy",
         "Mathematics",
@@ -3187,7 +3187,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Economy",
         "Statistics",
@@ -3253,7 +3253,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Finance"
       ],
@@ -3317,7 +3317,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Finance",
         "Mathematics"
@@ -3382,7 +3382,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Finance",
         "Statistics",
@@ -3449,7 +3449,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Artificial Intelligence"
@@ -3515,7 +3515,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance"
@@ -3580,7 +3580,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -3644,7 +3644,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Statistics"
@@ -3709,7 +3709,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics",
         "Artificial Intelligence",
@@ -3775,7 +3775,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -3796,6 +3796,72 @@
       "competition_type": "research_project",
       "co_authors": "Terence Tao, Pietro Monticone & 100+ Contributors",
       "journal_venue": "Lean4-Equational",
+      "is_research": true
+    },
+    {
+      "id": "ai-ds-conferences-a6b23d8bb707",
+      "title": "IEEE ICDM 2026 — International Conference on Data Mining",
+      "platform": "IEEE Computer Society",
+      "source": "ai_ds_conferences",
+      "url": "https://www.KnowledgeDiscovery.org/",
+      "discipline": "Data Science",
+      "category": "Data Mining, Graph Analytics & Knowledge Discovery",
+      "project_type": "conference",
+      "tier": "Flagship Society",
+      "status": "upcoming",
+      "abstract_deadline": "2026-06-08",
+      "submission_deadline": "2026-06-15",
+      "notification_date": "2026-08-19",
+      "event_start_date": "2026-11-18",
+      "event_end_date": "2026-11-22",
+      "days_remaining": 0,
+      "location": "Washington D.C. / Abu Dhabi / Shanghai",
+      "format": "In-Person",
+      "funding_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
+      "funding_usd": 0.0,
+      "funding_currency": "USD",
+      "venue_code": "ICDM 2026",
+      "organizer": "IEEE Computer Society",
+      "lead_researchers": "IEEE ICDM Program Chairs",
+      "proceedings_publisher": "IEEE Xplore Digital Library",
+      "paper_url": null,
+      "tags": [
+        "icdm",
+        "data-mining",
+        "time-series",
+        "anomaly-detection",
+        "clustering",
+        "data-science"
+      ],
+      "description": "World-premier research conference dedicated to data mining algorithms, anomaly detection, high-dimensional clustering, time-series analysis, and statistical pattern recognition.",
+      "participants_count": null,
+      "sources": [
+        "ai_ds_conferences"
+      ],
+      "first_seen_at": "2026-10-17",
+      "is_new": false,
+      "scraped_at": "2026-11-18T14:52:51Z",
+      "disciplines": [
+        "Data Science",
+        "Statistics"
+      ],
+      "kind": "conference",
+      "deadline": "2026-06-15",
+      "start_date": "2026-11-18",
+      "end_date": "2026-06-15",
+      "event_dates": "2026-11-18 to 2026-11-22",
+      "prize_pool_usd": null,
+      "prize_pool_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
+      "currency": "USD",
+      "tier_flag": "flagship",
+      "status_normalized": "upcoming",
+      "name": "IEEE ICDM 2026 — International Conference on Data Mining",
+      "prize": "IEEE Xplore + Best Paper & Student Travel Awards",
+      "prize_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
+      "prize_usd": 0.0,
+      "competition_type": "conference",
+      "co_authors": "IEEE ICDM Program Chairs",
+      "journal_venue": "ICDM 2026",
       "is_research": true
     },
     {
@@ -3840,7 +3906,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Mathematics",
         "Statistics"
@@ -3905,7 +3971,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Data Science",
         "Finance",
@@ -3971,7 +4037,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -4035,7 +4101,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -4059,72 +4125,6 @@
       "is_research": true
     },
     {
-      "id": "ai-ds-conferences-a6b23d8bb707",
-      "title": "IEEE ICDM 2026 — International Conference on Data Mining",
-      "platform": "IEEE Computer Society",
-      "source": "ai_ds_conferences",
-      "url": "https://www.KnowledgeDiscovery.org/",
-      "discipline": "Data Science",
-      "category": "Data Mining, Graph Analytics & Knowledge Discovery",
-      "project_type": "conference",
-      "tier": "Flagship Society",
-      "status": "upcoming",
-      "abstract_deadline": "2026-06-08",
-      "submission_deadline": "2026-06-15",
-      "notification_date": "2026-08-19",
-      "event_start_date": "2026-11-18",
-      "event_end_date": "2026-11-22",
-      "days_remaining": 1,
-      "location": "Washington D.C. / Abu Dhabi / Shanghai",
-      "format": "In-Person",
-      "funding_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
-      "funding_usd": 0.0,
-      "funding_currency": "USD",
-      "venue_code": "ICDM 2026",
-      "organizer": "IEEE Computer Society",
-      "lead_researchers": "IEEE ICDM Program Chairs",
-      "proceedings_publisher": "IEEE Xplore Digital Library",
-      "paper_url": null,
-      "tags": [
-        "icdm",
-        "data-mining",
-        "time-series",
-        "anomaly-detection",
-        "clustering",
-        "data-science"
-      ],
-      "description": "World-premier research conference dedicated to data mining algorithms, anomaly detection, high-dimensional clustering, time-series analysis, and statistical pattern recognition.",
-      "participants_count": null,
-      "sources": [
-        "ai_ds_conferences"
-      ],
-      "first_seen_at": "2026-10-17",
-      "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
-      "disciplines": [
-        "Data Science",
-        "Statistics"
-      ],
-      "kind": "conference",
-      "deadline": "2026-06-15",
-      "start_date": "2026-11-18",
-      "end_date": "2026-06-15",
-      "event_dates": "2026-11-18 to 2026-11-22",
-      "prize_pool_usd": null,
-      "prize_pool_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
-      "currency": "USD",
-      "tier_flag": "flagship",
-      "status_normalized": "upcoming",
-      "name": "IEEE ICDM 2026 — International Conference on Data Mining",
-      "prize": "IEEE Xplore + Best Paper & Student Travel Awards",
-      "prize_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
-      "prize_usd": 0.0,
-      "competition_type": "conference",
-      "co_authors": "IEEE ICDM Program Chairs",
-      "journal_venue": "ICDM 2026",
-      "is_research": true
-    },
-    {
       "id": "ai-ds-conferences-10139ed10478",
       "title": "NeurIPS 2026 — Conference on Neural Information Processing Systems",
       "platform": "NeurIPS Foundation",
@@ -4140,7 +4140,7 @@
       "notification_date": "2026-07-19",
       "event_start_date": "2026-12-06",
       "event_end_date": "2026-12-12",
-      "days_remaining": 19,
+      "days_remaining": 18,
       "location": "San Diego / Vancouver, North America",
       "format": "Hybrid",
       "funding_raw": "Publication + Student/Scholar Travel Awards ($2,500)",
@@ -4166,7 +4166,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence",
         "Statistics"
@@ -4206,7 +4206,7 @@
       "notification_date": "2026-05-19",
       "event_start_date": "2027-01-03",
       "event_end_date": "2027-01-06",
-      "days_remaining": 47,
+      "days_remaining": 46,
       "location": "Philadelphia / San Francisco / Boston, USA",
       "format": "In-Person",
       "funding_raw": "Brattle Group & Dimensional Fund Advisors Prizes ($25,000) + PhD Travel Grants",
@@ -4231,7 +4231,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Economy"
@@ -4271,7 +4271,7 @@
       "notification_date": "2026-06-19",
       "event_start_date": "2027-01-03",
       "event_end_date": "2027-01-06",
-      "days_remaining": 47,
+      "days_remaining": 46,
       "location": "Philadelphia / San Francisco / Atlanta, USA",
       "format": "In-Person",
       "funding_raw": "AEA Papers and Proceedings Publication",
@@ -4298,7 +4298,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Statistics"
@@ -4338,7 +4338,7 @@
       "notification_date": "2026-11-14",
       "event_start_date": "2027-01-06",
       "event_end_date": "2027-01-10",
-      "days_remaining": 50,
+      "days_remaining": 49,
       "location": "Washington D.C. / Seattle / Boston, USA",
       "format": "In-Person",
       "funding_raw": "AMS Graduate & Postdoc Travel Grants ($1,500)",
@@ -4365,7 +4365,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -4404,7 +4404,7 @@
       "notification_date": "2026-12-29",
       "event_start_date": "2027-01-12",
       "event_end_date": "2027-06-11",
-      "days_remaining": 56,
+      "days_remaining": 55,
       "location": "Cambridge, United Kingdom",
       "format": "Hybrid",
       "funding_raw": "£18,000 Visiting Rothschild / Kirk Fellowship + Accommodation",
@@ -4430,7 +4430,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Statistics",
@@ -4471,7 +4471,7 @@
       "notification_date": "2026-12-05",
       "event_start_date": "2027-01-19",
       "event_end_date": "2027-05-14",
-      "days_remaining": 63,
+      "days_remaining": 62,
       "location": "Berkeley, California, USA",
       "format": "In-Person",
       "funding_raw": "$45,000 Research Professor / Postdoc Residency Stipend",
@@ -4498,7 +4498,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -4537,7 +4537,7 @@
       "notification_date": "2026-12-24",
       "event_start_date": "2027-02-01",
       "event_end_date": "2027-05-12",
-      "days_remaining": 76,
+      "days_remaining": 75,
       "location": "Providence (Brown University), Rhode Island, USA",
       "format": "Hybrid",
       "funding_raw": "$12,000 Simons / NSF Visiting Researcher Support",
@@ -4562,7 +4562,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -4601,7 +4601,7 @@
       "notification_date": "2026-10-19",
       "event_start_date": "2027-02-22",
       "event_end_date": "2027-03-01",
-      "days_remaining": 97,
+      "days_remaining": 96,
       "location": "Philadelphia / Vancouver / North America",
       "format": "In-Person",
       "funding_raw": "AAAI Proceedings + Student Scholarship Program ($1,500)",
@@ -4628,7 +4628,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -4667,7 +4667,7 @@
       "notification_date": "2026-10-18",
       "event_start_date": "2027-03-10",
       "event_end_date": "2027-03-15",
-      "days_remaining": 113,
+      "days_remaining": 112,
       "location": "Hannover / Boise / Mérida",
       "format": "In-Person",
       "funding_raw": "ACM DL + WSDM Cup Challenges ($15,000)",
@@ -4693,7 +4693,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science"
       ],
@@ -4732,7 +4732,7 @@
       "notification_date": "2026-12-19",
       "event_start_date": "2027-03-15",
       "event_end_date": "2027-03-19",
-      "days_remaining": 118,
+      "days_remaining": 117,
       "location": "Indianapolis / New Orleans / Baltimore, USA",
       "format": "In-Person",
       "funding_raw": "ENAR Distinguished Student Paper Awards ($1,500)",
@@ -4758,7 +4758,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics"
       ],
@@ -4797,7 +4797,7 @@
       "notification_date": "2026-12-26",
       "event_start_date": "2027-04-14",
       "event_end_date": "2027-04-17",
-      "days_remaining": 148,
+      "days_remaining": 147,
       "location": "Zurich / Boston / Lausanne",
       "format": "Hybrid",
       "funding_raw": "PMLR Archival + Student Travel Fellowships",
@@ -4823,7 +4823,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics",
         "Artificial Intelligence",
@@ -4864,7 +4864,7 @@
       "notification_date": "2026-12-06",
       "event_start_date": "2027-04-24",
       "event_end_date": "2027-04-29",
-      "days_remaining": 158,
+      "days_remaining": 157,
       "location": "Singapore / Vienna / Rio de Janeiro",
       "format": "Hybrid",
       "funding_raw": "OpenReview Archival + Travel Fellowships ($2,000)",
@@ -4890,7 +4890,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -4929,7 +4929,7 @@
       "notification_date": "2026-12-14",
       "event_start_date": "2027-05-03",
       "event_end_date": "2027-05-06",
-      "days_remaining": 167,
+      "days_remaining": 166,
       "location": "Phuket / Valencia / Tangier",
       "format": "Hybrid",
       "funding_raw": "PMLR Archival + Student Travel Grants ($1,500)",
@@ -4955,7 +4955,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence",
         "Mathematics",
@@ -4996,7 +4996,7 @@
       "notification_date": "2027-01-18",
       "event_start_date": "2027-06-14",
       "event_end_date": "2027-06-19",
-      "days_remaining": 209,
+      "days_remaining": 208,
       "location": "Nashville / Seattle / Denver, USA",
       "format": "Hybrid",
       "funding_raw": "IEEE/CVF Archival + Best Paper Awards ($10,000)",
@@ -5022,7 +5022,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -5061,7 +5061,7 @@
       "notification_date": "2027-01-19",
       "event_start_date": "2027-06-21",
       "event_end_date": "2027-06-25",
-      "days_remaining": 216,
+      "days_remaining": 215,
       "location": "Snowbird / Huntington Beach / Seattle",
       "format": "In-Person",
       "funding_raw": "$10,000 Cubist Systematic & Two Sigma Best Paper Awards",
@@ -5086,7 +5086,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance"
       ],
@@ -5125,7 +5125,7 @@
       "notification_date": "2027-01-12",
       "event_start_date": "2027-06-21",
       "event_end_date": "2027-06-26",
-      "days_remaining": 216,
+      "days_remaining": 215,
       "location": "Prague / Salt Lake City / Vancouver",
       "format": "In-Person",
       "funding_raw": "ACM DL + Danny Lewin Best Student Paper & Travel Grants ($2,000)",
@@ -5151,7 +5151,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Finance"
@@ -5193,7 +5193,7 @@
       "notification_date": "2027-01-29",
       "event_start_date": "2027-06-28",
       "event_end_date": "2027-07-04",
-      "days_remaining": 8,
+      "days_remaining": 7,
       "location": "Nagoya / Venice / Montreal",
       "format": "In-Person",
       "funding_raw": "Savage Award ($3,000) + Junior Bayesian Travel Grants",
@@ -5219,7 +5219,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics"
       ],
@@ -5258,7 +5258,7 @@
       "notification_date": "2027-02-01",
       "event_start_date": "2027-03-15",
       "event_end_date": "2027-06-08",
-      "days_remaining": 11,
+      "days_remaining": 10,
       "location": "Los Angeles (UCLA), California, USA",
       "format": "In-Person",
       "funding_raw": "$15,000 Travel, Per-Diem & Residence Support (NSF)",
@@ -5284,7 +5284,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -5323,7 +5323,7 @@
       "notification_date": null,
       "event_start_date": "2026-03-01",
       "event_end_date": "2026-12-15",
-      "days_remaining": 13,
+      "days_remaining": 12,
       "location": "Virtual / Global",
       "format": "Virtual / Global",
       "funding_raw": "$1,000,000+ ARC-AGI-2 Grand Prize & Paper Awards",
@@ -5348,7 +5348,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -5387,7 +5387,7 @@
       "notification_date": "2027-02-13",
       "event_start_date": "2027-05-18",
       "event_end_date": "2027-05-22",
-      "days_remaining": 23,
+      "days_remaining": 22,
       "location": "New Haven / Atlanta / Austin, USA",
       "format": "In-Person",
       "funding_raw": "$5,000 SFS Best Paper Awards in Asset Pricing & Corporate Finance",
@@ -5412,7 +5412,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Statistics",
@@ -5453,7 +5453,7 @@
       "notification_date": "2027-02-18",
       "event_start_date": "2027-07-06",
       "event_end_date": "2027-07-11",
-      "days_remaining": 28,
+      "days_remaining": 27,
       "location": "Rio de Janeiro / Bologna / New York",
       "format": "In-Person",
       "funding_raw": "Bruti-Liberati Prize + Early Career Travel Support",
@@ -5479,7 +5479,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Mathematics"
@@ -5519,7 +5519,7 @@
       "notification_date": "2027-03-21",
       "event_start_date": "2027-07-14",
       "event_end_date": "2027-07-18",
-      "days_remaining": 59,
+      "days_remaining": 58,
       "location": "Bochum / London / North America",
       "format": "In-Person",
       "funding_raw": "IMS New Researcher Travel Awards ($2,500) + Hannan/Wald Lectures",
@@ -5545,7 +5545,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics",
         "Mathematics"
@@ -5585,7 +5585,7 @@
       "notification_date": "2027-03-21",
       "event_start_date": "2027-06-25",
       "event_end_date": "2027-06-29",
-      "days_remaining": 59,
+      "days_remaining": 58,
       "location": "Copenhagen / Barcelona / Buenos Aires / Madison",
       "format": "In-Person",
       "funding_raw": "Review of Economic Dynamics Special Track",
@@ -5611,7 +5611,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance"
@@ -5651,7 +5651,7 @@
       "notification_date": "2027-03-23",
       "event_start_date": "2027-06-14",
       "event_end_date": "2027-06-20",
-      "days_remaining": 61,
+      "days_remaining": 60,
       "location": "Berlin / Bengaluru / Washington D.C.",
       "format": "In-Person",
       "funding_raw": "PACMMOD Archival + Student Travel Grants ($2,000)",
@@ -5677,7 +5677,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science"
       ],
@@ -5716,7 +5716,7 @@
       "notification_date": "2027-03-28",
       "event_start_date": "2027-07-06",
       "event_end_date": "2027-07-11",
-      "days_remaining": 66,
+      "days_remaining": 65,
       "location": "Cleveland / Montreal / Pittsburgh",
       "format": "Hybrid",
       "funding_raw": "SIAM SIAG/FME Early Career & Student Paper Prizes ($3,000)",
@@ -5751,7 +5751,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Finance",
@@ -5792,7 +5792,7 @@
       "notification_date": "2027-04-03",
       "event_start_date": "2027-07-13",
       "event_end_date": "2027-07-19",
-      "days_remaining": 66,
+      "days_remaining": 65,
       "location": "Riocentro, Rio de Janeiro, Brazil",
       "format": "Hybrid",
       "funding_raw": "Peer-Reviewed Archival + Travel Grants",
@@ -5821,7 +5821,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence",
         "Statistics"
@@ -5861,7 +5861,7 @@
       "notification_date": "2027-03-29",
       "event_start_date": "2027-07-18",
       "event_end_date": "2027-07-23",
-      "days_remaining": 67,
+      "days_remaining": 66,
       "location": "Padua / Melbourne / Washington D.C.",
       "format": "Hybrid",
       "funding_raw": "ACM DL + Student Travel Awards ($2,000)",
@@ -5887,7 +5887,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science",
         "Artificial Intelligence"
@@ -5927,7 +5927,7 @@
       "notification_date": null,
       "event_start_date": "2026-09-01",
       "event_end_date": "2027-07-30",
-      "days_remaining": 75,
+      "days_remaining": 74,
       "location": "Co-located with ACL / NAACL",
       "format": "Hybrid",
       "funding_raw": "Peer-Reviewed System Description Paper in ACL Anthology",
@@ -5953,7 +5953,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -5992,7 +5992,7 @@
       "notification_date": "2027-04-07",
       "event_start_date": "2027-08-19",
       "event_end_date": "2027-08-23",
-      "days_remaining": 76,
+      "days_remaining": 75,
       "location": "Paris / Bratislava / Zurich / Amsterdam",
       "format": "In-Person",
       "funding_raw": "€10,000 EFA Best Paper & Doctoral Tutorial Stipends",
@@ -6017,7 +6017,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Economy"
@@ -6057,7 +6057,7 @@
       "notification_date": "2027-04-09",
       "event_start_date": "2027-08-01",
       "event_end_date": "2027-08-07",
-      "days_remaining": 78,
+      "days_remaining": 77,
       "location": "Boston / Nashville / Chicago, North America",
       "format": "In-Person",
       "funding_raw": "ASA/IMS Student Paper Awards & Travel Fellowships ($2,000)",
@@ -6084,7 +6084,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics",
         "Mathematics",
@@ -6125,7 +6125,7 @@
       "notification_date": "2027-04-11",
       "event_start_date": "2027-07-07",
       "event_end_date": "2027-07-12",
-      "days_remaining": 80,
+      "days_remaining": 79,
       "location": "Stanford / New Haven / London",
       "format": "In-Person",
       "funding_raw": "ACM DL + Best Paper & Student Travel Grants ($2,000)",
@@ -6151,7 +6151,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy"
       ],
@@ -6190,7 +6190,7 @@
       "notification_date": "2027-04-12",
       "event_start_date": "2027-06-28",
       "event_end_date": "2027-07-03",
-      "days_remaining": 81,
+      "days_remaining": 80,
       "location": "Lyon / Edmonton / Montreal",
       "format": "In-Person",
       "funding_raw": "PMLR + Best Paper & Best Student Paper Awards ($4,000)",
@@ -6216,7 +6216,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence",
         "Statistics"
@@ -6256,7 +6256,7 @@
       "notification_date": "2027-04-16",
       "event_start_date": "2027-08-09",
       "event_end_date": "2027-08-14",
-      "days_remaining": 85,
+      "days_remaining": 84,
       "location": "Toronto / Barcelona / Jeju",
       "format": "In-Person",
       "funding_raw": "ACM DL + KDD Cup ($50,000) & Student Travel Awards",
@@ -6282,7 +6282,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science",
         "Artificial Intelligence"
@@ -6322,7 +6322,7 @@
       "notification_date": "2027-04-18",
       "event_start_date": "2027-07-21",
       "event_end_date": "2027-07-25",
-      "days_remaining": 87,
+      "days_remaining": 86,
       "location": "Rio de Janeiro / Melbourne / Amsterdam",
       "format": "Hybrid",
       "funding_raw": "PMLR Archival + Student Travel Support",
@@ -6347,7 +6347,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence",
         "Finance",
@@ -6388,7 +6388,7 @@
       "notification_date": "2027-04-21",
       "event_start_date": "2027-08-24",
       "event_end_date": "2027-08-29",
-      "days_remaining": 90,
+      "days_remaining": 89,
       "location": "Rotterdam / Seoul / Davis / Toronto",
       "format": "In-Person",
       "funding_raw": "Frisch Medal Track & Developing Economy Scholar Travel Grants ($2,500)",
@@ -6414,7 +6414,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Mathematics",
@@ -6455,7 +6455,7 @@
       "notification_date": "2027-04-21",
       "event_start_date": "2027-07-27",
       "event_end_date": "2027-08-02",
-      "days_remaining": 90,
+      "days_remaining": 89,
       "location": "Vienna / Bangkok / Toronto",
       "format": "Hybrid",
       "funding_raw": "ACL Anthology + Walker Fund Student Fellowships ($2,000)",
@@ -6482,7 +6482,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -6521,7 +6521,7 @@
       "notification_date": "2027-04-24",
       "event_start_date": "2027-06-28",
       "event_end_date": "2027-07-01",
-      "days_remaining": 93,
+      "days_remaining": 92,
       "location": "Sintra, Portugal",
       "format": "Hybrid",
       "funding_raw": "€10,000 ECB Young Economists Prize + Full Sintra Invitation",
@@ -6547,7 +6547,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance"
@@ -6587,7 +6587,7 @@
       "notification_date": "2027-04-26",
       "event_start_date": "2027-05-28",
       "event_end_date": "2027-05-31",
-      "days_remaining": 95,
+      "days_remaining": 94,
       "location": "Paris / New York",
       "format": "In-Person",
       "funding_raw": "€10,000 per Selected Financial Mathematics & Economics Research Project",
@@ -6619,7 +6619,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Mathematics",
@@ -6660,7 +6660,7 @@
       "notification_date": "2027-05-04",
       "event_start_date": "2027-07-12",
       "event_end_date": "2027-07-22",
-      "days_remaining": 103,
+      "days_remaining": 102,
       "location": "Gerzensee (Switzerland) / Paris / Frankfurt",
       "format": "In-Person",
       "funding_raw": "CEPR Discussion Paper Series + Central Bank Travel Support",
@@ -6685,7 +6685,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance"
@@ -6725,7 +6725,7 @@
       "notification_date": null,
       "event_start_date": "2026-01-15",
       "event_end_date": "2027-03-31",
-      "days_remaining": 103,
+      "days_remaining": 102,
       "location": "École Normale Supérieure (ENS) Paris & Collège de France",
       "format": "Hybrid",
       "funding_raw": "ENS Academic Certificate + QRT / CFM / AMF Research Awards",
@@ -6752,7 +6752,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Finance",
         "Mathematics",
@@ -6793,7 +6793,7 @@
       "notification_date": "2027-05-05",
       "event_start_date": "2027-08-25",
       "event_end_date": "2027-08-30",
-      "days_remaining": 104,
+      "days_remaining": 103,
       "location": "London / Boston / Seoul",
       "format": "In-Person",
       "funding_raw": "PVLDB Journal Archival + Travel Fellowships",
@@ -6819,7 +6819,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science"
       ],
@@ -6858,7 +6858,7 @@
       "notification_date": "2027-05-29",
       "event_start_date": "2027-07-07",
       "event_end_date": "2027-07-26",
-      "days_remaining": 128,
+      "days_remaining": 127,
       "location": "Cambridge, Massachusetts, USA",
       "format": "Hybrid",
       "funding_raw": "NBER Working Paper Distribution + Travel Reimbursement",
@@ -6884,7 +6884,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance"
@@ -6924,7 +6924,7 @@
       "notification_date": null,
       "event_start_date": "2026-01-01",
       "event_end_date": "2027-12-31",
-      "days_remaining": 134,
+      "days_remaining": 133,
       "location": "Ottawa / Oslo / Chicago / London / Global",
       "format": "Hybrid",
       "funding_raw": "Co-Authored Meta-Paper in Top Economics Journals + Travel Support",
@@ -6951,7 +6951,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance",
@@ -6992,7 +6992,7 @@
       "notification_date": "2027-06-09",
       "event_start_date": "2027-09-07",
       "event_end_date": "2027-09-11",
-      "days_remaining": 139,
+      "days_remaining": 138,
       "location": "Edinburgh / Bournemouth / Belfast, UK",
       "format": "In-Person",
       "funding_raw": "JRSS Discussion Track + RSS Early Career Bursaries",
@@ -7018,7 +7018,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics"
       ],
@@ -7057,7 +7057,7 @@
       "notification_date": "2027-06-14",
       "event_start_date": "2027-11-02",
       "event_end_date": "2027-11-06",
-      "days_remaining": 144,
+      "days_remaining": 143,
       "location": "Sydney / Chicago / Santa Cruz",
       "format": "In-Person",
       "funding_raw": "IEEE Xplore + Machtey Award & Student Travel Grants ($2,000)",
@@ -7083,7 +7083,7 @@
       ],
       "first_seen_at": "2026-11-07",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Statistics"
@@ -7123,7 +7123,7 @@
       "notification_date": null,
       "event_start_date": "2026-01-01",
       "event_end_date": "2027-07-15",
-      "days_remaining": 149,
+      "days_remaining": 148,
       "location": "Global / IMO Host Venue",
       "format": "Virtual / Global",
       "funding_raw": "$10,000,000 Total AIMO Prize Pool ($2.1M Progress Prizes)",
@@ -7149,7 +7149,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Artificial Intelligence"
@@ -7189,7 +7189,7 @@
       "notification_date": "2027-06-25",
       "event_start_date": "2027-09-22",
       "event_end_date": "2027-09-27",
-      "days_remaining": 155,
+      "days_remaining": 154,
       "location": "Prague / Bari / Minneapolis",
       "format": "Hybrid",
       "funding_raw": "ACM DL + RecSys Challenge Prize ($20,000)",
@@ -7214,7 +7214,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science"
       ],
@@ -7253,7 +7253,7 @@
       "notification_date": null,
       "event_start_date": "2026-11-01",
       "event_end_date": "2027-09-12",
-      "days_remaining": 159,
+      "days_remaining": 158,
       "location": "Madrid / Grenoble / Bologna, Europe",
       "format": "In-Person",
       "funding_raw": "Springer LNCS Proceedings & CEUR-WS Working Notes Publication",
@@ -7278,7 +7278,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Data Science",
         "Mathematics"
@@ -7318,7 +7318,7 @@
       "notification_date": "2027-07-24",
       "event_start_date": "2027-10-26",
       "event_end_date": "2027-10-31",
-      "days_remaining": 184,
+      "days_remaining": 183,
       "location": "Seoul / Montreal / Analytical Hub",
       "format": "In-Person",
       "funding_raw": "ACM DL + AnalytiCup Data Science Prizes ($10,000)",
@@ -7343,7 +7343,7 @@
       ],
       "first_seen_at": "2026-11-01",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science"
       ],
@@ -7382,7 +7382,7 @@
       "notification_date": "2027-08-19",
       "event_start_date": "2027-11-10",
       "event_end_date": "2027-11-15",
-      "days_remaining": 210,
+      "days_remaining": 209,
       "location": "Suzhou / Miami / Singapore",
       "format": "Hybrid",
       "funding_raw": "ACL Anthology + Best Paper & D&I Awards ($2,000)",
@@ -7409,7 +7409,7 @@
       ],
       "first_seen_at": "2026-11-16",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -7474,7 +7474,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -7539,7 +7539,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Mathematics",
         "Finance",
@@ -7606,7 +7606,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Artificial Intelligence",
         "Mathematics"
@@ -7673,7 +7673,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Mathematics",
         "Statistics"
@@ -7739,7 +7739,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Statistics",
         "Mathematics",
@@ -7804,7 +7804,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -7869,7 +7869,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Statistics",
         "Mathematics",
@@ -7936,7 +7936,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Economy",
         "Mathematics",
@@ -8003,7 +8003,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Economy",
         "Statistics",
@@ -8069,7 +8069,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Finance"
       ],
@@ -8133,7 +8133,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Finance",
         "Mathematics"
@@ -8198,7 +8198,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Finance",
         "Statistics",
@@ -8265,7 +8265,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Artificial Intelligence"
@@ -8331,7 +8331,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Finance"
@@ -8396,7 +8396,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -8460,7 +8460,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Statistics"
@@ -8525,7 +8525,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics",
         "Artificial Intelligence",
@@ -8591,7 +8591,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -8612,6 +8612,72 @@
       "competition_type": "research_project",
       "co_authors": "Terence Tao, Pietro Monticone & 100+ Contributors",
       "journal_venue": "Lean4-Equational",
+      "is_research": true
+    },
+    {
+      "id": "ai-ds-conferences-a6b23d8bb707",
+      "title": "IEEE ICDM 2026 — International Conference on Data Mining",
+      "platform": "IEEE Computer Society",
+      "source": "ai_ds_conferences",
+      "url": "https://www.KnowledgeDiscovery.org/",
+      "discipline": "Data Science",
+      "category": "Data Mining, Graph Analytics & Knowledge Discovery",
+      "project_type": "conference",
+      "tier": "Flagship Society",
+      "status": "upcoming",
+      "abstract_deadline": "2026-06-08",
+      "submission_deadline": "2026-06-15",
+      "notification_date": "2026-08-19",
+      "event_start_date": "2026-11-18",
+      "event_end_date": "2026-11-22",
+      "days_remaining": 0,
+      "location": "Washington D.C. / Abu Dhabi / Shanghai",
+      "format": "In-Person",
+      "funding_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
+      "funding_usd": 0.0,
+      "funding_currency": "USD",
+      "venue_code": "ICDM 2026",
+      "organizer": "IEEE Computer Society",
+      "lead_researchers": "IEEE ICDM Program Chairs",
+      "proceedings_publisher": "IEEE Xplore Digital Library",
+      "paper_url": null,
+      "tags": [
+        "icdm",
+        "data-mining",
+        "time-series",
+        "anomaly-detection",
+        "clustering",
+        "data-science"
+      ],
+      "description": "World-premier research conference dedicated to data mining algorithms, anomaly detection, high-dimensional clustering, time-series analysis, and statistical pattern recognition.",
+      "participants_count": null,
+      "sources": [
+        "ai_ds_conferences"
+      ],
+      "first_seen_at": "2026-10-17",
+      "is_new": false,
+      "scraped_at": "2026-11-18T14:52:51Z",
+      "disciplines": [
+        "Data Science",
+        "Statistics"
+      ],
+      "kind": "conference",
+      "deadline": "2026-06-15",
+      "start_date": "2026-11-18",
+      "end_date": "2026-06-15",
+      "event_dates": "2026-11-18 to 2026-11-22",
+      "prize_pool_usd": null,
+      "prize_pool_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
+      "currency": "USD",
+      "tier_flag": "flagship",
+      "status_normalized": "upcoming",
+      "name": "IEEE ICDM 2026 — International Conference on Data Mining",
+      "prize": "IEEE Xplore + Best Paper & Student Travel Awards",
+      "prize_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
+      "prize_usd": 0.0,
+      "competition_type": "conference",
+      "co_authors": "IEEE ICDM Program Chairs",
+      "journal_venue": "ICDM 2026",
       "is_research": true
     },
     {
@@ -8656,7 +8722,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Mathematics",
         "Statistics"
@@ -8721,7 +8787,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:55Z",
+      "scraped_at": "2026-11-18T14:52:52Z",
       "disciplines": [
         "Data Science",
         "Finance",
@@ -8787,7 +8853,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -8851,7 +8917,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -8875,72 +8941,6 @@
       "is_research": true
     },
     {
-      "id": "ai-ds-conferences-a6b23d8bb707",
-      "title": "IEEE ICDM 2026 — International Conference on Data Mining",
-      "platform": "IEEE Computer Society",
-      "source": "ai_ds_conferences",
-      "url": "https://www.KnowledgeDiscovery.org/",
-      "discipline": "Data Science",
-      "category": "Data Mining, Graph Analytics & Knowledge Discovery",
-      "project_type": "conference",
-      "tier": "Flagship Society",
-      "status": "upcoming",
-      "abstract_deadline": "2026-06-08",
-      "submission_deadline": "2026-06-15",
-      "notification_date": "2026-08-19",
-      "event_start_date": "2026-11-18",
-      "event_end_date": "2026-11-22",
-      "days_remaining": 1,
-      "location": "Washington D.C. / Abu Dhabi / Shanghai",
-      "format": "In-Person",
-      "funding_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
-      "funding_usd": 0.0,
-      "funding_currency": "USD",
-      "venue_code": "ICDM 2026",
-      "organizer": "IEEE Computer Society",
-      "lead_researchers": "IEEE ICDM Program Chairs",
-      "proceedings_publisher": "IEEE Xplore Digital Library",
-      "paper_url": null,
-      "tags": [
-        "icdm",
-        "data-mining",
-        "time-series",
-        "anomaly-detection",
-        "clustering",
-        "data-science"
-      ],
-      "description": "World-premier research conference dedicated to data mining algorithms, anomaly detection, high-dimensional clustering, time-series analysis, and statistical pattern recognition.",
-      "participants_count": null,
-      "sources": [
-        "ai_ds_conferences"
-      ],
-      "first_seen_at": "2026-10-17",
-      "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
-      "disciplines": [
-        "Data Science",
-        "Statistics"
-      ],
-      "kind": "conference",
-      "deadline": "2026-06-15",
-      "start_date": "2026-11-18",
-      "end_date": "2026-06-15",
-      "event_dates": "2026-11-18 to 2026-11-22",
-      "prize_pool_usd": null,
-      "prize_pool_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
-      "currency": "USD",
-      "tier_flag": "flagship",
-      "status_normalized": "upcoming",
-      "name": "IEEE ICDM 2026 — International Conference on Data Mining",
-      "prize": "IEEE Xplore + Best Paper & Student Travel Awards",
-      "prize_raw": "IEEE Xplore + Best Paper & Student Travel Awards",
-      "prize_usd": 0.0,
-      "competition_type": "conference",
-      "co_authors": "IEEE ICDM Program Chairs",
-      "journal_venue": "ICDM 2026",
-      "is_research": true
-    },
-    {
       "id": "ai-ds-conferences-10139ed10478",
       "title": "NeurIPS 2026 — Conference on Neural Information Processing Systems",
       "platform": "NeurIPS Foundation",
@@ -8956,7 +8956,7 @@
       "notification_date": "2026-07-19",
       "event_start_date": "2026-12-06",
       "event_end_date": "2026-12-12",
-      "days_remaining": 19,
+      "days_remaining": 18,
       "location": "San Diego / Vancouver, North America",
       "format": "Hybrid",
       "funding_raw": "Publication + Student/Scholar Travel Awards ($2,500)",
@@ -8982,7 +8982,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence",
         "Statistics"
@@ -9022,7 +9022,7 @@
       "notification_date": "2026-05-19",
       "event_start_date": "2027-01-03",
       "event_end_date": "2027-01-06",
-      "days_remaining": 47,
+      "days_remaining": 46,
       "location": "Philadelphia / San Francisco / Boston, USA",
       "format": "In-Person",
       "funding_raw": "Brattle Group & Dimensional Fund Advisors Prizes ($25,000) + PhD Travel Grants",
@@ -9047,7 +9047,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance",
         "Economy"
@@ -9087,7 +9087,7 @@
       "notification_date": "2026-06-19",
       "event_start_date": "2027-01-03",
       "event_end_date": "2027-01-06",
-      "days_remaining": 47,
+      "days_remaining": 46,
       "location": "Philadelphia / San Francisco / Atlanta, USA",
       "format": "In-Person",
       "funding_raw": "AEA Papers and Proceedings Publication",
@@ -9114,7 +9114,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Economy",
         "Statistics"
@@ -9154,7 +9154,7 @@
       "notification_date": "2026-11-14",
       "event_start_date": "2027-01-06",
       "event_end_date": "2027-01-10",
-      "days_remaining": 50,
+      "days_remaining": 49,
       "location": "Washington D.C. / Seattle / Boston, USA",
       "format": "In-Person",
       "funding_raw": "AMS Graduate & Postdoc Travel Grants ($1,500)",
@@ -9181,7 +9181,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -9220,7 +9220,7 @@
       "notification_date": "2026-12-29",
       "event_start_date": "2027-01-12",
       "event_end_date": "2027-06-11",
-      "days_remaining": 56,
+      "days_remaining": 55,
       "location": "Cambridge, United Kingdom",
       "format": "Hybrid",
       "funding_raw": "£18,000 Visiting Rothschild / Kirk Fellowship + Accommodation",
@@ -9246,7 +9246,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Statistics",
@@ -9287,7 +9287,7 @@
       "notification_date": "2026-12-05",
       "event_start_date": "2027-01-19",
       "event_end_date": "2027-05-14",
-      "days_remaining": 63,
+      "days_remaining": 62,
       "location": "Berkeley, California, USA",
       "format": "In-Person",
       "funding_raw": "$45,000 Research Professor / Postdoc Residency Stipend",
@@ -9314,7 +9314,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -9353,7 +9353,7 @@
       "notification_date": "2026-12-24",
       "event_start_date": "2027-02-01",
       "event_end_date": "2027-05-12",
-      "days_remaining": 76,
+      "days_remaining": 75,
       "location": "Providence (Brown University), Rhode Island, USA",
       "format": "Hybrid",
       "funding_raw": "$12,000 Simons / NSF Visiting Researcher Support",
@@ -9378,7 +9378,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics"
       ],
@@ -9417,7 +9417,7 @@
       "notification_date": "2026-10-19",
       "event_start_date": "2027-02-22",
       "event_end_date": "2027-03-01",
-      "days_remaining": 97,
+      "days_remaining": 96,
       "location": "Philadelphia / Vancouver / North America",
       "format": "In-Person",
       "funding_raw": "AAAI Proceedings + Student Scholarship Program ($1,500)",
@@ -9444,7 +9444,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -9483,7 +9483,7 @@
       "notification_date": "2026-10-18",
       "event_start_date": "2027-03-10",
       "event_end_date": "2027-03-15",
-      "days_remaining": 113,
+      "days_remaining": 112,
       "location": "Hannover / Boise / Mérida",
       "format": "In-Person",
       "funding_raw": "ACM DL + WSDM Cup Challenges ($15,000)",
@@ -9509,7 +9509,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Data Science"
       ],
@@ -9548,7 +9548,7 @@
       "notification_date": "2026-12-19",
       "event_start_date": "2027-03-15",
       "event_end_date": "2027-03-19",
-      "days_remaining": 118,
+      "days_remaining": 117,
       "location": "Indianapolis / New Orleans / Baltimore, USA",
       "format": "In-Person",
       "funding_raw": "ENAR Distinguished Student Paper Awards ($1,500)",
@@ -9574,7 +9574,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics"
       ],
@@ -9613,7 +9613,7 @@
       "notification_date": "2026-12-26",
       "event_start_date": "2027-04-14",
       "event_end_date": "2027-04-17",
-      "days_remaining": 148,
+      "days_remaining": 147,
       "location": "Zurich / Boston / Lausanne",
       "format": "Hybrid",
       "funding_raw": "PMLR Archival + Student Travel Fellowships",
@@ -9639,7 +9639,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Statistics",
         "Artificial Intelligence",
@@ -9680,7 +9680,7 @@
       "notification_date": "2026-12-06",
       "event_start_date": "2027-04-24",
       "event_end_date": "2027-04-29",
-      "days_remaining": 158,
+      "days_remaining": 157,
       "location": "Singapore / Vienna / Rio de Janeiro",
       "format": "Hybrid",
       "funding_raw": "OpenReview Archival + Travel Fellowships ($2,000)",
@@ -9706,7 +9706,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -9745,7 +9745,7 @@
       "notification_date": "2026-12-14",
       "event_start_date": "2027-05-03",
       "event_end_date": "2027-05-06",
-      "days_remaining": 167,
+      "days_remaining": 166,
       "location": "Phuket / Valencia / Tangier",
       "format": "Hybrid",
       "funding_raw": "PMLR Archival + Student Travel Grants ($1,500)",
@@ -9771,7 +9771,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence",
         "Mathematics",
@@ -9812,7 +9812,7 @@
       "notification_date": "2027-01-18",
       "event_start_date": "2027-06-14",
       "event_end_date": "2027-06-19",
-      "days_remaining": 209,
+      "days_remaining": 208,
       "location": "Nashville / Seattle / Denver, USA",
       "format": "Hybrid",
       "funding_raw": "IEEE/CVF Archival + Best Paper Awards ($10,000)",
@@ -9838,7 +9838,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Artificial Intelligence"
       ],
@@ -9877,7 +9877,7 @@
       "notification_date": "2027-01-19",
       "event_start_date": "2027-06-21",
       "event_end_date": "2027-06-25",
-      "days_remaining": 216,
+      "days_remaining": 215,
       "location": "Snowbird / Huntington Beach / Seattle",
       "format": "In-Person",
       "funding_raw": "$10,000 Cubist Systematic & Two Sigma Best Paper Awards",
@@ -9902,7 +9902,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Finance"
       ],
@@ -9941,7 +9941,7 @@
       "notification_date": "2027-01-12",
       "event_start_date": "2027-06-21",
       "event_end_date": "2027-06-26",
-      "days_remaining": 216,
+      "days_remaining": 215,
       "location": "Prague / Salt Lake City / Vancouver",
       "format": "In-Person",
       "funding_raw": "ACM DL + Danny Lewin Best Student Paper & Travel Grants ($2,000)",
@@ -9967,7 +9967,7 @@
       ],
       "first_seen_at": "2026-10-17",
       "is_new": false,
-      "scraped_at": "2026-11-17T15:16:54Z",
+      "scraped_at": "2026-11-18T14:52:51Z",
       "disciplines": [
         "Mathematics",
         "Finance"
